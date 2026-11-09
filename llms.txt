@@ -1,0 +1,8 @@
+# Best Robotics Data Companies
+
+> I built a four-page site that ranks 13 real robotics training-data companies, using the companies' own websites checked on 2026-11-09. Pages: a ranked index with a comparison table, a 'how to choose' section and an FAQ; a methodology page; an honest About page; and a glossary. Each page has JSON-LD (ItemList, FAQPage, Organization/WebSite, DefinedTermSet). The figures quoted are the companies' own claims, credited to them and not checked independently. The site doesn't claim we tested anything. Only Segments.ai publishes an effective rate; the others quote prices privately.
+
+- [Best Robotics Data Companies (2026): 13 Ranked & Compared](https://bestroboticsdatacompanies.com/): The best robotics data companies in 2026: Scale AI, Labelbox Terra, Encord, Graviti and more, compared on teleoperation, egocentric capture, annotation and pricing.
+- [How We Ranked the Best Robotics Data Companies](https://bestroboticsdatacompanies.com/methodology.html): How bestroboticsdatacompanies.com researched and ranked robotics training-data vendors: official sources, plain criteria, and no hands-on testing claims.
+- [About Best Robotics Data Companies](https://bestroboticsdatacompanies.com/about.html): Best Robotics Data Companies is an independent research site comparing robotics and physical-AI training-data vendors from public sources.
+- [Robotics Training Data Glossary: Teleop, UMI, LeRobot, RLDS](https://bestroboticsdatacompanies.com/glossary.html): Plain definitions of robotics data terms buyers meet: teleoperation, egocentric video, UMI, VLA, sensor fusion, LeRobot, RLDS, HDF5, MCAP and more.
